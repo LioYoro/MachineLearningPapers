@@ -1,0 +1,189 @@
+SampleID,EntityText,EntityLabel
+1,LeBron James,PERSON
+1,NBA,ORG
+1,the Los Angeles Lakers,ORG
+1,Oklahoma City Thunder,GPE
+1,February 7,DATE
+1,the Crypto.com Arena,FAC
+1,"92,000",MONEY
+1,Bleacher Report,ORG
+1,James,PERSON
+1,New Orleans,NORP
+1,February 4,DATE
+1,the Milwaukee Bucks,EVENT
+1,February 9,DATE
+1,the Golden State Warriors,FAC
+1,February 11,DATE
+1,three,CARDINAL
+1,James,PERSON
+1,"up to $1,152",MONEY
+1,"94,000",CARDINAL
+1,390 percent,PERCENT
+1,CBS Sports,ORG
+1,the Lakers-Bucks,ORG
+1,"1,302",MONEY
+1,one,CARDINAL
+1,175 percent,PERCENT
+1,the start of the season,DATE
+1,Top Sports News Now Breaking,ORG
+1,third,ORDINAL
+1,England,GPE
+1,Karnataka,GPE
+1,third,ORDINAL
+1,the last seven months,DATE
+1,Australia,GPE
+1,India,GPE
+1,Xabi Alonso,PERSON
+1,Harry Kane,PERSON
+1,Bayern Munich,ORG
+1,Bayer Leverkusen CLICK,ORG
+1,James,PERSON
+1,26,CARDINAL
+1,the Indiana Pacers,ORG
+1,34th,ORDINAL
+1,at least 20,CARDINAL
+1,Thursday,DATE
+1,just 63,CARDINAL
+1,Kareem Abdul-Jabbar’s,PERSON
+1,"38,387",CARDINAL
+1,Abdul-Jabbar,PERSON
+1,38-year-old,DATE
+1,James,PERSON
+1,the Cleveland Cavaliers,ORG
+1,2003-04,DATE
+1,19,CARDINAL
+1,at least 25,CARDINAL
+2,Seven,CARDINAL
+2,Formula,PERSON
+2,One,CARDINAL
+2,Lewis Hamilton,PERSON
+2,Hamilton,PERSON
+2,Wednesday,DATE
+2,LBGTQ,ORG
+2,FIA,ORG
+2,December,DATE
+2,International Sporting Code,EVENT
+2,FIA,ORG
+2,Formula One,ORG
+2,Lewis Hamilton,PERSON
+2,Reuters,ORG
+2,Hamilton,PERSON
+2,first,ORDINAL
+2,Wednesday,DATE
+2,Mercedes,ORG
+2,2023,CARDINAL
+2,Hamilton,PERSON
+2,FIA,ORG
+2,Hamilton,PERSON
+2,FIA,ORG
+2,Hamilton,PERSON
+2,Hamilton,PERSON
+2,F1,GPE
+2,Stefano Domenicali,PERSON
+2,Guardian,ORG
+2,Domenicali,PERSON
+2,FIA,ORG
+2,Hamilton,PERSON
+2,F1,GPE
+2,17 years,DATE
+2,first,ORDINAL
+2,F1,GPE
+2,2008,DATE
+2,British,NORP
+2,38 years old,DATE
+2,Michael Schumacher,PERSON
+2,seven,CARDINAL
+2,Hamilton,PERSON
+2,Hamilton,PERSON
+2,Hamilton,PERSON
+2,last year,DATE
+2,FIA,ORG
+2,three,CARDINAL
+2,eight,CARDINAL
+2,Hamilton,PERSON
+2,FIA,ORG
+2,two,CARDINAL
+2,Top Sports News,ORG
+2,India,GPE
+2,Australia Live Score,ORG
+2,U19 World Cup 2024,ORG
+2,Chelsea,ORG
+2,Ponderous Pochettino,PERSON
+2,£1 billion,MONEY
+2,American,NORP
+2,Hamilton,ORG
+2,George Russell,PERSON
+2,the Grand Prix Drivers’ Association,ORG
+2,F1,GPE
+2,FIA,ORG
+2,Russell,PERSON
+2,Wednesday,DATE
+3,Ferrari,ORG
+3,Ravin Jain,PERSON
+3,Spaniard Inaki,PERSON
+3,F1,GPE
+3,Jain,ORG
+3,season,DATE
+3,Bahrain Grand Prix,FAC
+3,next weekend,DATE
+3,Ferrari F1,ORG
+3,Jain,ORG
+3,last season,DATE
+3,Ferrari,PERSON
+3,last season,DATE
+3,Charles Leclerc,PERSON
+3,second,ORDINAL
+3,Max Verstappen,PERSON
+3,Red Bull,ORG
+3,George Russell,PERSON
+3,fourth,ORDINAL
+3,last year,DATE
+3,the Monaco Grand Prix,FAC
+3,Leclerc,ORG
+3,the Brazilian Grand Prix,FAC
+3,Qualification 3,LAW
+3,two,CARDINAL
+3,Ferrari,ORG
+3,Fred Vasseur,PERSON
+3,Mattia Binotto,PERSON
+3,Oxford,ORG
+3,Indian,NORP
+3,first,ORDINAL
+3,Jain,ORG
+3,Scuderia Ferrari,PERSON
+3,2017,DATE
+3,the last six years,DATE
+3,Rueda,PERSON
+3,Ferrari,ORG
+3,Maranello,GPE
+3,Ravin Jain,PERSON
+3,Indian,NORP
+3,England,GPE
+3,Ravin,GPE
+3,Physics,ORG
+3,Mathematical and Theoretical Physics,ORG
+3,University of Oxford,ORG
+3,Ferrari News,ORG
+3,"February 23, 2023",DATE
+3,Early this year,DATE
+3,Vasseur,ORG
+3,Ferrari,ORG
+3,Vasseur,ORG
+3,January this year,DATE
+4,Tuesday,DATE
+4,Shubman Gill,PERSON
+4,India,GPE
+4,2023,DATE
+4,Wednesday,DATE
+4,India,GPE
+4,first,ORDINAL
+4,England,GPE
+4,the Rajiv Gandhi International Stadium in Hyderabad,ORG
+4,first,ORDINAL
+4,the last minute,TIME
+4,India,GPE
+4,Virat Kohli,ORG
+4,Gill,PERSON
+4,January,DATE
+4,one,CARDINAL
+4,Gill,PERSON
